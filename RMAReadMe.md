@@ -1,4 +1,5 @@
 Realtor Management Application
+
 Realtors are looking for sales and rental management software to help them manage their properties very effectively, along with buyer and property information. As a Salesforce implementation partner company, you were asked to develop the solution using the Salesforce Platform. Here is all the information about the project.
 
 Scope of Work
